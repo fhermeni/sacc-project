@@ -33,7 +33,10 @@ _Attention_, ne pas tomber dans l'excès sur le support de requêtes d'analyses.
 - exécution de requêtes sur une base DynamoDB: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/QueryAndScan.html
 - Beanstalker, le plugin pour déployer du projet maven sur Elastic BeanStalk: http://docs.ingenieux.com.br/project/beanstalker/
 
-## À rendre dans votre [rapport](rapport.pdf)
+## Le rapport de projet
+
+Un document à mettre dans le repository (répertoire `doc`). La forme compte moins que le fond. Ecrivez le rapport à plusieurs, dans des fichiers markdown, sous google doc, ... . Il est _interdit_ de rendre un document Word ou OpenDocument. Au pire, vous pouvez rendre un PDF.
+
 - le nom des membres de l'équipe
 - L'URL de votre repository Git. La branche 'master' sera récupérée une fois la deadline passée
 - l'URL où l'application est déployée
