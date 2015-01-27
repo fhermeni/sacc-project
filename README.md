@@ -37,16 +37,16 @@ _Attention_, ne pas tomber dans l'excès sur le support de requêtes d'analyses.
 
 Un document à mettre dans le repository (répertoire `doc`). La forme compte moins que le fond. Ecrivez le rapport à plusieurs, dans des fichiers markdown, sous google doc, ... . Il est _interdit_ de rendre un document Word ou OpenDocument. Au pire, vous pouvez rendre un PDF.
 
+Le document doit contenir, entre autre:
 - le nom des membres de l'équipe
-- L'URL de votre repository Git. La branche 'master' sera récupérée une fois la deadline passée
 - l'URL où l'application est déployée
 - un accès au dashboard de l'application sur AWS de manière à observer la configuration, les règles d'élasticité, ...
 - un rapport contenant:
   - une description de ce que vous avez fait/pas fait et pourquoi
   - une description justifiée de l'architecture de l'application
   - les types d'analyse supportées
-  - un modèle de coût: Combien coûte l'application par mois en fonction de différents facteurs.
-  - des points notables concernant l'implantation 
-  - l'API REST mise à disposition des clients
+  - un modèle de coût: Combien coûte l'application par mois en fonction de différents facteurs ?
+  - des points notables concernant l'implantation, les tests de charges, ... 
+  - l'API REST
   - tout ce qui est nécessaire pour tester l'application en ligne facilement
   - un retour sur votre vision du projet et du module
