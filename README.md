@@ -22,7 +22,7 @@ _Attention_, ne pas tomber dans l'excès sur le support de requêtes d'analyses.
 
 ## Environnement de travail
 
-- java + maven. Voir [CONFIGURE.md]
+- java + maven. Voir [CONFIGURE.md](CONFIGURE.md)
 - git pour la gestion des sources. Code de production à déposer dans la branche `master`
 
 ## Resources
